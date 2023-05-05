@@ -5,7 +5,7 @@ ___
 - API для получения неполных [данных](https://vue-study.skillbox.ru/#/)
 - API для получения полных [данных](https://vue-tzr.skillbox.cc/#/)
 
-Посмотреть можно тут: https://github.com/SolodovnikViktor/vue-app/deployments/activity_log?environment=github-pages
+Посмотреть можно тут: https://solodovnikviktor.github.io/vue-app/#/
 ___
 ![Образец](./preview/catalog.png)
 
